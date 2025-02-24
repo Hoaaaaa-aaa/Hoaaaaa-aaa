@@ -9,7 +9,9 @@
 <h2>📫 How to Reach Me</h2>
 <p>📧 Email: hoahoand22@gmail.com</p>
 
-[![](https://visitcount.itsvg.in/api?id=Dieu-Hoa&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+    <img src="https://visitcount.itsvg.in/api?id=Hoaaaaa-aaa&icon=0&color=0" alt="Profile Views" class="badge" />
+</p>
 
 <h2>🚀 Skills & Tech Stack</h2>
 
@@ -40,12 +42,12 @@
 
 <h2>📊 GitHub Stats</h2>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DieuHoa&show_icons=true&theme=radical" alt="GitHub Stats" class="badge" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hoaaaaa-aaa&show_icons=true&theme=radical" alt="GitHub Stats" class="badge" />
 </p>
 
 <h2>🏆 GitHub Trophies</h2>
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=DieuHoa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" class="badge" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hoaaaaa-aaa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" class="badge" />
 </p>
 
 <h2>✍️ Random Dev Quote</h2>
